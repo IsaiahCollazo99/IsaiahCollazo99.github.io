@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b93ef79e.chunk.css",
+    "main.js": "/static/js/main.50531df1.chunk.js",
+    "main.js.map": "/static/js/main.50531df1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f7be1adb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f7be1adb.js.map",
+    "static/css/2.c7661d7b.chunk.css": "/static/css/2.c7661d7b.chunk.css",
+    "static/js/2.ae366e69.chunk.js": "/static/js/2.ae366e69.chunk.js",
+    "static/js/2.ae366e69.chunk.js.map": "/static/js/2.ae366e69.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ebc514f08adb2309f8188048bfe57302.js": "/precache-manifest.ebc514f08adb2309f8188048bfe57302.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c7661d7b.chunk.css.map": "/static/css/2.c7661d7b.chunk.css.map",
+    "static/css/main.b93ef79e.chunk.css.map": "/static/css/main.b93ef79e.chunk.css.map",
+    "static/js/2.ae366e69.chunk.js.LICENSE.txt": "/static/js/2.ae366e69.chunk.js.LICENSE.txt",
+    "static/media/Resume_Isaiah_Collazo.pdf": "/static/media/Resume_Isaiah_Collazo.6321d579.pdf",
+    "static/media/contact_background.jpg": "/static/media/contact_background.47780f74.jpg",
+    "static/media/home_background.jpg": "/static/media/home_background.a99e47ea.jpg",
+    "static/media/image_contact.JPG": "/static/media/image_contact.b79d2666.JPG",
+    "static/media/image_me.jpg": "/static/media/image_me.6eca29ea.jpg",
+    "static/media/logo.png": "/static/media/logo.8ca3e748.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7be1adb.js",
+    "static/css/2.c7661d7b.chunk.css",
+    "static/js/2.ae366e69.chunk.js",
+    "static/css/main.b93ef79e.chunk.css",
+    "static/js/main.50531df1.chunk.js"
+  ]
+}
