@@ -1,0 +1,7 @@
+.projectsPageContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-self: center;
+    margin-top: 25px;
+}
